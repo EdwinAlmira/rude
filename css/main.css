@@ -1,0 +1,60 @@
+.loguito{
+	width: 150px;
+	height: 30px;
+}
+body{
+	background-color: #34495e;
+}
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+.navbar li { color: #000 } 
+.btn-login{
+	background-color: #c0392b;
+}
+
+a.linkeado{
+	color: #white;
+}
+body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.navbar-toggle{
+	background-color: #7f8c8d;
+}
+.bs-example-navbar-collapse-1{
+	background-color: #7f8c8d;
+}
+.navbar-default .navbar-nav > li > a {
+color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a:hover {
+color: #1abc9c;
+}
+.navbar-default .navbar-nav > li > a:focus {
+color: #ecf0f1;
+}
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
