@@ -6,7 +6,7 @@ body{
 	background-color: #34495e;
 }
 
-.navbar-header {
+.navbar .navbar-header {
    background-color: #34495e;
    opacity: 0.75;
 	
