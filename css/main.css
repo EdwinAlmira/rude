@@ -5,18 +5,13 @@
 body{
 	background-color: #34495e;
 }
-/*
-.navbar {
-   background-color: transparent;
-   background: transparent;
-   border-color: transparent;
+
+.navbar-header {
+   background-color: #34495e;
+   opacity: 0.75;
+	
 }
 
-.navbar li { color: #000 } 
-.btn-login{
-	background-color: #c0392b;
-}
-*/
 
 a.linkeado{
 	color: #white;
