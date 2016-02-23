@@ -1,0 +1,26 @@
+#principalP
+{
+	margin-top: 100px;
+	
+}
+.navbar .navbar-header {
+   background-color: #34495e;
+   opacity: 0.75;
+	
+}
+
+a.linkeado{
+	color: white;
+}
+.navbar-fixed-top .navbar-nav > li > a {
+color: #ecf0f1;
+}
+.navbar-fixed-top .navbar-nav > li > a:hover {
+color: #1abc9c;
+}
+.navbar-fixed-top .navbar-nav > li > a:focus {
+color: #ecf0f1;
+}
+.navbar{
+	margin: 0px;
+}

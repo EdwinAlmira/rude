@@ -1,24 +1,23 @@
-.loguito{
-	width: 150px;
-	height: 30px;
-}
-body{
-	background-color: #34495e;
-}
+/*-----------------Css for Main.php -----------------*/
 
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #151515;
+}
 .navbar .navbar-header {
    background-color: #34495e;
    opacity: 0.75;
 	
 }
 
-
 a.linkeado{
-	color: #white;
+	color: white;
 }
-body {
-    padding-top: 0px;
-    padding-bottom: 0px;
+.typedcss{
+	font-family: 'Old Standard TT', serif;
+	color: white;
+	font-size: 50px;	
 }
 .navbar-fixed-top .navbar-nav > li > a {
 color: #ecf0f1;
@@ -29,23 +28,58 @@ color: #1abc9c;
 .navbar-fixed-top .navbar-nav > li > a:focus {
 color: #ecf0f1;
 }
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+.navbar{
+	margin: 0px;
+}
+.mainTitle{
+	font-family: 'Old Standard TT', serif;
+	color:white;
+}
+.typed-cursor {
+    display: none;
+}
+.typed{
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 1%;
+}
+.typed h2{
+	font-family: 'Old Standard TT', serif;
+	color: white;
+	font-size: 30px;	
+}
+.h2question{
+	
+	color: white;
+	font-size: 35px;	
+}
+.pservice{
+	color: white;
+	font-size: 15px;	
+}
+.thumbnail{
+	background-color: #151515;	
+	border:none;
+
+}
+.thumbnail p{
+	color: #C7C7C7;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*-------------------Medias queris----------*/
+@media screen and (min-width: 480px){
+	.typed{
+		margin-left: 2%;
+		margin-top: 35%;
+		position: absolute;
+		z-index: 1;
+	}
+}
+@media screen and (min-width: 767px){
+		.typed{
+		margin-left: 2%;
+		margin-top: 43%;
+		position: absolute;
+		z-index: 1;
+	}
+}
