@@ -2,25 +2,46 @@
 {
 	margin-top: 100px;
 	
-}
-.navbar .navbar-header {
-   background-color: #34495e;
-   opacity: 0.75;
+}footer {
+	margin-bottom: 0;
+	padding-bottom: 0;
+	display: block;
+	font-size: 15px;
 	
 }
+.afoot{
+	color: #95a5a6;
+	text-decoration: none;
+}
+.afoot:hover{
+	color: white;
+	text-decoration: underline;
+}
+section{
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  color: #fff;
+  background-color: #16a085;
+}
 
-a.linkeado{
+.nav-pills > li > a {
+  color: #16a085;
+  background-color: #fff;
+}
+/*Boton hola*/
+.btn-hola{
+	transition: background-color 0.5s ease;
+	background-color: #16a085;
 	color: white;
 }
-.navbar-fixed-top .navbar-nav > li > a {
-color: #ecf0f1;
+.btn-hola:hover{
+	background-color: #3498db;
+	color: white;
 }
-.navbar-fixed-top .navbar-nav > li > a:hover {
-color: #1abc9c;
-}
-.navbar-fixed-top .navbar-nav > li > a:focus {
-color: #ecf0f1;
-}
-.navbar{
-	margin: 0px;
+.btn-hola:focus{
+	color: white;
 }
