@@ -7,6 +7,7 @@
   	<link rel="stylesheet" href="../css/login.css">
   </head>
   <body>
+   <?php include 'terminos.php'; ?>
   <section>
     <div class="container-fluid logincontent">    
       <div class="col-xs-12 col-md-6 col-md-offset-3">
@@ -62,7 +63,7 @@
        <div class="col-xs-6 col-md-4"><a class="afoot" href="">Relaciones con inversionistas</a></div>
        <div class="col-xs-6 col-md-4"><a class="afoot" href="">Comprar/Canjear regalo</a></div>
        <div class="col-xs-6 col-md-4"><a class="afoot" href="">Formas de ver</a></div>
-       <div class="col-xs-6 col-md-4"><a class="afoot" href="">Terminos de uso</a></div>
+       <div class="col-xs-6 col-md-4"><a class="afoot" href="" data-toggle="modal" data-target="#terminos">Terminos de uso</a></div>
         <div class="navbar-text pull-left col-xs-12">
           <p>© 2016 Rudeware.</p>
         </div>

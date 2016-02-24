@@ -10,9 +10,9 @@
   <body>
   
   <section>
-    <div class="container">
+    <div class="container-fluid">
       <div class="row">
-        <h2 class="text-center h2question">Servicios Destacados</h2>
+        <h2 class="text-center h2question">Servicios</h2>
         <p class="col-xs-8 col-xs-offset-2 text-center pservice">Nuestro principal objetivo es brindarte la facilidad de obtener todo lo que necesitas en el mismo lugar,
          y brindarte seguimieto para incrementar tu productividad </p>
       </div>

@@ -10,42 +10,6 @@
 <body>
 <!---Menu Rudeware-->
 		<div class="rudenav"></div>
-<!--
-<nav class="navbar navbar-default navbar-fixed-top">
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#miNav" aria-expanded="false">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-
-				</button>
-				<a href="#" class="navbar-brand">Adriana</a>
-			</div>
-			<div class="collapse navbar-collapse" id="miNav">
-				<ul class="nav navbar-nav">
-					<li><a  href="#">Sobre nosotros</a></li>
-					<li><a href="#">Encuentranos</a></li>
-					<li class="dropdown active">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="false" role="button" aria-expanded="true">Productos <span class="caret"></span></a>
-						<ul class="dropdown-menu">
-							<li><a href="">Adriana</a></li>
-							<li><a href="">Adriana</a></li>
-							<li><a href="">Adriana</a></li>
-							<li><a href="">Adriana</a></li>
-							<li><a href="">Adriana</a></li>
-							<li role="separator" class="divider"></li>
-							<li><a href="#">Accesorios y más...</a></li>
-						</ul>
-					</li>
-				</ul>
-				<form class="navbar-form navbar-right" role="search">
-					<input type="text" class="form-control" placeholder="Buscar producto...">
-				</form>
-				<a href="#" data-toggle="modal" class="navbar-right"><p class="navbar-text navbar-link">Iniciar Sesión</p></a>
-			</div>
-		</div> 
-		-->
 	</nav>	
 	<div class="container-fluid" id="principalP">
 		<div class="row-fluid">
@@ -149,7 +113,6 @@
 						</div>
 			</div>	
 		    
-
 
 			</div>
 
